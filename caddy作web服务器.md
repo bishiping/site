@@ -31,7 +31,7 @@
     [Install]
     WantedBy=multi-user.target
     
-## 3.3 启动caddy服务
+## 2.3 启动caddy服务
     
     systemctl start caddy //启动caddy
     

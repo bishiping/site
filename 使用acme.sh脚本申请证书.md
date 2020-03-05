@@ -12,7 +12,7 @@
 注册好`Cloudflare`账号，假定域名是`yourdomain.com`，且已经添加至`Cloudflare`进行域名托管，获取`Global API Key`。
 ## 2.2 提前配置变量
     
-    export CF_Key=slfjksjffjfhfhkjhfksjf" //此处替换成你自己的Key
+    export CF_Key="slfjksjffjfhfhkjhfksjf" //此处替换成你自己的Key
     export CF_Email="yourcloudflare@gmail.com" //此处填写你注册Cloudflare使用的邮箱账号
     
 ## 2.3 申请证书

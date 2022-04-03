@@ -15,7 +15,7 @@
     
     ./autogen.sh
     
-    ./configure --prefix=/usr --disable-documentation
+    ./configure --disable-documentation
     
     make && make install
     
